@@ -1,0 +1,119 @@
+.logo {
+    width:250px
+}
+
+header {
+    width:100%;
+    height:60px;
+    background-color:black;
+}
+
+header ul {    
+    list-style: none;
+    line-height: 60px;
+}
+
+header Ul li {
+    float:left;
+    padding-left: 50px;
+    padding-right: 50px;
+    color:white;
+}
+
+main {
+    clear: both;
+    }
+
+.left {
+    float: left;
+    width: 70%;
+    margin-right: 50px;
+    margin-bottom: 40px;
+}
+
+label{
+    font-family:"Hiragino Kaku Gothic ProN","メイリオ",sans-serif;
+}
+
+.left h1 {
+    border-left: 4px solid black;
+    border-bottom: 2px solid darkgray;
+    padding-left: 5px;
+}
+
+form{margin: 0 auto;
+    margin-bottom:10px;
+    background-color: #fbfbfb;
+    border: 3px solid lightgray;
+    border-radius: 10px;
+    width:auto;
+}
+
+form h2{
+    border-left: 4px red solid;
+    font-size: 20px;
+    padding-left: 5px;
+    margin-left:10px;
+    margin-top:30px;
+    margin-bottom:10px;
+}
+
+
+form div{
+    padding:15px;
+}
+
+.submit{
+    border:1px solid lightgray;
+    padding: 4px 10px;
+    color: white;
+    background-color: #bfbfbf;
+    border-radius: 5px;
+    border-bottom: solid 2px gray;
+}
+
+.kiji{margin-bottom: 10px;
+    padding: 10px 10px;
+    background-color: #fbfbfb;
+    border: 3px solid lightgray;
+    border-radius: 10px;
+    width:auto;
+}
+
+.kiji h3{
+    border-bottom: solid 3px lightgray;
+}
+
+.contents{
+    margin:5px;
+    padding-bottom:5px;
+}
+
+.handlename {
+    font-size: 12px;
+}
+
+.right {
+    float: left;
+    width:25%;
+}
+
+.right h2{
+    border-bottom:1px dashed black ;
+}
+
+.right ul{
+    list-style: none;
+}
+
+footer{
+    clear: left;
+    width: 100%;
+    height: 60px;
+    bottom: 0px;
+    left: 0px;
+    background-color:black;
+    color:white;
+    text-align: center;
+    line-height: 60px;
+}
